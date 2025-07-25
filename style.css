@@ -1,3 +1,5 @@
+/* @import "../omarchy/current/theme/waybar.css"; */
+
 @import url("./colors.css");
 
 * {
@@ -30,6 +32,7 @@
 #clock,
 #memory,
 #temperature,
+#custom-power,
 #custom-power-menu {
   color: #000;
   min-width: 12px;
@@ -78,4 +81,3 @@ tooltip {
 tooltip label {
   padding: 2px;
 }
-
