@@ -45,6 +45,10 @@
   background-color: #fff;
 }
 
+#battery {
+  background-color: @teal;
+}
+
 #temperature {
   background-color: @red;
 }
